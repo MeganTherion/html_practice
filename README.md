@@ -1,2 +1,2 @@
-# html_practice
+# html & css practice
 Practicing front-end basics from freeCodeCamp.org
